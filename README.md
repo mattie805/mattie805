@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mattie805
-- 👀 I’m interested in full stack software developement and data science.
+- 👀 I’m interested in full stack software developement.
 - 🌱 I’m currently learning how to build applications on Python and develope websites using HTML and CSS.
 - 💞️ I’m looking to collaborate on entry level software applications and projects!
 - 📫 You can reach me through my email mattielindsey8@gmail.com
